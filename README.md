@@ -6,4 +6,4 @@ Projeto voltado para estudo pessoal da linguagem Dart, utilizando Flutter, em um
 
 <img src="https://github.com/brunoFelipeDev/flutter-lista-tarefas/blob/master/images/screen_1.png" width="30%"></img> 
 <img src="https://github.com/brunoFelipeDev/flutter-lista-tarefas/blob/master/images/screen_2.png" width="30%"></img> 
-![Alt Text](https://github.com/brunoFelipeDev/flutter-lista-tarefas/blob/master/images/app.gif?raw=true)
+![Alt Text](https://github.com/brunoFelipeDev/flutter-lista-tarefas/blob/master/images/app.gif?raw=true | width=100)
